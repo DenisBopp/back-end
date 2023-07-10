@@ -45,4 +45,5 @@ sh run.sh
 ```
 sh run.sh dev
 ```
-Abra o navegador no endereço: [http://localhost:8000/#/](http://localhost:8000/#/) para acessar a documentação.
+Abra o navegador no endereço: [http://localhost:8000/#/](http://localhost:8000/#/) para acessar a documentação. 
+Por favor confirmar a porta 8000 ao rodar o Flask.
